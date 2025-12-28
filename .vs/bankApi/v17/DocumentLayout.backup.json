@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\transactioncreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\transactioncreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\\u0441urrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\\u0441urrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\patchaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\patchaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|d:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\cpt\\bankapi\\models\\accountcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F223607-8758-448D-904F-DA7D23CEDAF7}|bankApi.csproj|solutionrelative:models\\accountcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Repositories\\AccountRepository.cs*",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:36:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Repositories\\IAccountRepository.cs*",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:35:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\AccountType.cs",
+              "RelativeDocumentMoniker": "Models\\AccountType.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\AccountType.cs",
+              "RelativeToolTip": "Models\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:46:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionType.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\TransactionType.cs",
+              "RelativeToolTip": "Models\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:56:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionCreate.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\TransactionCreate.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionCreate.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\TransactionCreate.cs",
+              "RelativeToolTip": "Models\\TransactionCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:07:22.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Controllers\\AccountsController.cs*",
+              "RelativeToolTip": "Controllers\\AccountsController.cs*",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAwwNoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:08:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:47:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:23:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatchAccount.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\PatchAccount.cs",
+              "RelativeDocumentMoniker": "Models\\PatchAccount.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\PatchAccount.cs",
+              "RelativeToolTip": "Models\\PatchAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:46:08.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u0421urrency.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\\u0421urrency.cs",
+              "RelativeDocumentMoniker": "Models\\\u0421urrency.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\\u0421urrency.cs",
+              "RelativeToolTip": "Models\\\u0421urrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:46:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountCreateRequest.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\AccountCreateRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AccountCreateRequest.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\AccountCreateRequest.cs",
+              "RelativeToolTip": "Models\\AccountCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:41:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "D:\\\u043F\u0430\u043F\u043A\u0438\\\u0440\u0430\u0431\u043E\u0442\u0430\\CPT\\bankApi\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:19:36.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

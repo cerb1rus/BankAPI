@@ -1,0 +1,72 @@
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\appsettings.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\demo11.staticwebassets.endpoints.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\demo11.exe
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\demo11.deps.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\demo11.runtimeconfig.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\demo11.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\demo11.pdb
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.AssemblyInfoInputs.cache
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.AssemblyInfo.cs
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.csproj.CoreCompileInputs.cache
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.sourcelink.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\scopedcss\bundle\demo11.styles.css
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\refint\demo11.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.pdb
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.genruntimeconfig.cache
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\ref\demo11.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.csproj.AssemblyReference.cache
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aivan\Рабочий стол\работа\CPT\demo11\obj\Debug\net9.0\demo11.csproj.Up2Date
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\appsettings.Development.json
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\appsettings.json
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\demo11.staticwebassets.endpoints.json
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\demo11.exe
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\demo11.deps.json
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\demo11.runtimeconfig.json
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\demo11.dll
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\demo11.pdb
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\папки\работа\CPT\demo11\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.csproj.AssemblyReference.cache
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.GeneratedMSBuildEditorConfig.editorconfig
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.AssemblyInfoInputs.cache
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.AssemblyInfo.cs
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.csproj.CoreCompileInputs.cache
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.MvcApplicationPartsAssemblyInfo.cs
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.MvcApplicationPartsAssemblyInfo.cache
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.sourcelink.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\scopedcss\bundle\demo11.styles.css
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.build.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.development.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.csproj.Up2Date
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.dll
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\refint\demo11.dll
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.pdb
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\demo11.genruntimeconfig.cache
+D:\папки\работа\CPT\demo11\obj\Debug\net9.0\ref\demo11.dll
